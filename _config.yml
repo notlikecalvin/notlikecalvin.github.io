@@ -1,9 +1,9 @@
-site: Ultra
-url: https://example.com
-title: Ultra
-description: Ultra - Super fast Jekyll theme, weighs under 2kb
+site: notlikecalvin.com
+url: notlikecalvin.com
+title: notlikecalvin
+description: nlc projects
 twitter:
-  username: yourusername
+  username: notlikecalvin
   card: summary
 
 permalink: pretty
