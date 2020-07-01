@@ -8,7 +8,7 @@ category: graphic design, science fiction, television
 
 I made a far too large infographic with far too much detail based on every episode of <em>Doctor Who</em>. As a 'relativity index' it shows Doctors, companions, appearances by notable adversaries and the time frame that events take place in - all by the factor of screen time. The chart lists serial/episode titles, production seasons/years, accumulating running time, character fates and breakdowns of gender/species.
 
-![Image of the DW Matrix](https://github.com/notlikecalvin/notlikecalvin.github.io/tree/master/resources/dwmatrix_img.jpg)
+![Image of the DW Matrix](resources/dwmatrix_img.jpg)
 
 If printed at full design resolution the matrix would need to be over five metres wide, but it can probably be squished down a fair bit and still be mostly legible; it was an exercise in over-specificity rather than practical application.
 
