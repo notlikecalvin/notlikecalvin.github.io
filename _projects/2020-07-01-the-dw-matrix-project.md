@@ -6,7 +6,7 @@ summary: An informational chart on the long-running science fiction TV show
 category: graphic design, science fiction, television
 ---
 
-I made a far too large infographic with far too much detail based on every episode of <em>Doctor Who</em>. As a 'relativity index' it shows Doctors, companions, appearances by notable adversaries and the time frame that events take place in - all by the factor of screen time. The chart lists serial/episode titles, production seasons/years, accumulating running time, character fates and breakdowns of gender/species.
+I made a far too large infographic with far too much detail based on every episode of <em>Doctor Who</em>. As a 'relativity matrix' it shows Doctors, companions, appearances by notable adversaries and the time frame that events take place in - all by the factor of screen time. The chart lists serial/episode titles, production seasons/years, accumulating running time, character fates and breakdowns of gender/species.
 
 ![Image of the DW Matrix](/resources/dwmatrixsmall.jpg)
 
