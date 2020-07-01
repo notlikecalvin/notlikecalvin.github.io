@@ -1,7 +1,7 @@
 site: notlikecalvin.com
 url: notlikecalvin.com
 title: notlikecalvin
-description: nlc projects
+description: nlc projects - bits and pieces from neil hobbs
 twitter:
   username: notlikecalvin
   card: summary
@@ -31,7 +31,7 @@ collections:
     output: true
     permalink: /:name
   posts:
-    output: true
+    output: false
     permalink: /:year/:month/:day/:slug
   projects:
     output: true
