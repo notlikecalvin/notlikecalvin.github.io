@@ -14,7 +14,7 @@ A lockdown project that got a bit out of hand. So far I've designed Lego models 
 
 <h2>GIO</h2>
 
-<img src="/resources/ion-model.jpg" title="Lego ION" width="200" height="100"> <img src="/resources/ion-box.jpg" title="Lego ION box">
+<img src="/resources/ion-model.jpg" title="Lego ION" width="200" height="100"><img src="/resources/ion-box.jpg" title="Lego ION box" width="200" height="100">
 
 
 <h2>Sensor3 24</h2>
