@@ -1,5 +1,6 @@
 ---
 layout: project
+title: Lego Theatre
 description: Lego models of theatre technology
 summary: Summary of project
 category: lego theatre
