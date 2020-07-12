@@ -8,6 +8,7 @@ category: lego theatre
 
 A lockdown project that got a bit out of hand. So far I've designed Lego models of <a href="https://www.etcconnect.com/" title="Electronic Theatre Controls">ETC</a>'s **Ion classic** and **Gio** consoles, and **Sensor 3** dimmer modules and rack.
 
+---
 
 ## ION
 
@@ -27,11 +28,15 @@ Access the parts list on BrickLink, download the instructions, and assemble your
 
 * [ETC ION - box (self-assembly required) [3.2MB PDF]](/resources/LegoION-DIYbox.pdf)
 
+---
 
 ## Sensor3 Rack24
 
+As a bit of a break from the ION, I started modelling a ThruPower module at the same scale, trying to get as much detail as possible into a relatively compact space only three tiles high.
+
 https://www.etcconnect.com/Products/Power-Controls/Racks-and-Panels/Sensor3/Installation.aspx
 
+---
 
 ## GIO
 
