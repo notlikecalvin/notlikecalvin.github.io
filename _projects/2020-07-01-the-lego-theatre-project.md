@@ -6,12 +6,12 @@ summary: Summary of project
 category: lego theatre
 ---
 
-A lockdown project that got a bit out of hand. So far I've designed Lego models of ETC's **Ion classic** and **Gio** consoles, and **Sensor 3** dimmer modules and rack.
+A lockdown project that got a bit out of hand. So far I've designed Lego models of <a href="https://www.etcconnect.com/" title="Electronic Theatre Controls">ETC</a>'s **Ion classic** and **Gio** consoles, and **Sensor 3** dimmer modules and rack.
 
 
 ## ION
 
-ETC's original ION, with its small footprint and large featureset, powers a range of performance around the world. As the console I'm most familiar with it was an obvious place to start.
+ETC's original <a href="https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx" title="ION classic console at ETCconnect.com">ION console</a>, with its small footprint and large featureset, powers a range of performance around the world. As the console I'm most familiar with it was an obvious place to start.
 
 ![Images of the Lego ION model and packaging](/resources/ion-images.jpg)
 
@@ -19,7 +19,7 @@ This model is approximately quarter-scale, sized mainly around the layout of the
 
 Access the parts list on BrickLink, download the instructions, and assemble your own retail packaging. I've done a fancy brochure with light text on dark pages, but there's also a more ink-friendly inverted version of the instructions.
 
-* <a href="https://www.bricklink.com/v3/studio/edit.page?idModel=147578" alt="ETC ION Lego model on BrickLink ->">ETC ION model on BrickLink</a>
+* <a href="https://www.bricklink.com/v3/studio/edit.page?idModel=147578" title="ETC ION Lego model on BrickLink">ETC ION model on BrickLink -></a>
 
 * [ETC ION - Lego Theatre instructions (overly fancy version) [3.2MB PDF]](/resources/LegoION-darkinstructions.pdf)
 
@@ -29,6 +29,8 @@ Access the parts list on BrickLink, download the instructions, and assemble your
 
 
 ## Sensor3 Rack24
+
+https://www.etcconnect.com/Products/Power-Controls/Racks-and-Panels/Sensor3/Installation.aspx
 
 
 ## GIO
