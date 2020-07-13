@@ -12,13 +12,13 @@ A lockdown project that got a bit out of hand. So far I've designed Lego models 
 
 ## ION
 
-ETC's original <a href="https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx" title="ION classic console at ETCconnect.com">ION console</a>, with its small footprint and large featureset, powers a range of performance around the world. As the console I'm most familiar with it was an obvious place to start.
+ETC's original <a href="https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx" title="ION classic console at ETCconnect.com">ION console</a>, with its small footprint and large featureset, powers a range of performance around the world. As the console I'm most physically familiar with it was an obvious place to start.
 
 ![Images of the Lego ION model and packaging](/resources/ion-images.jpg)
 
-This model is approximately quarter-scale, sized mainly around the layout of the button banks: 240 pieces, 11x15cm. The main challenge with these consoles is the angled faceplate and how that attaches to the base section - this one uses a hinge connection at the front of the faceplate.
+This model is approximately quarter-scale, sized mainly around the layout of the button banks: 240 pieces, 11cm wide by 15cm deep. The main challenge with these consoles is the angled faceplate and how that attaches to the base section - this one uses a hinge connection at the front.
 
-Access the parts list on BrickLink, download the instructions, and assemble your own retail packaging. I've done a fancy brochure with light text on dark pages, but there's also a more ink-friendly inverted version of the instructions.
+If you want to make one yourself, you can access the parts list on BrickLink, download the instructions, and assemble your own retail packaging. I've done a fancy brochure with light text on dark pages, but there's also a more ink-friendly inverted version of the instructions.
 
 * <a href="https://www.bricklink.com/v3/studio/edit.page?idModel=147578" title="ETC ION Lego model on BrickLink">ETC ION model on BrickLink -></a>
 
