@@ -8,6 +8,8 @@ category: lego theatre
 
 A lockdown project that got a bit out of hand. So far I've designed Lego models of <a href="https://www.etcconnect.com/" title="Electronic Theatre Controls">ETC</a>'s **Ion classic** and **Gio** consoles, and **Sensor 3** dimmer modules and rack.
 
+I've shamelessly based the *Lego Theatre* theming on the *<a href="https://www.lego.com/en-gb/themes/architecture/story" title="Lego Architecture at Lego.com">Lego Architecture</a>* range.
+
 ---
 
 ## ION
