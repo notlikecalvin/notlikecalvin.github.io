@@ -38,13 +38,17 @@ As a bit of a break from the ION, I started modelling a ThruPower module at the 
 
 ![Images of the Lego Thrupower module model and ETC original](/resources/sensor3-thrupower-images.jpg)
 
-With a bunch of those stacked up I could make a whole rack, so better to design a CEM module as well:
+With a bunch of those stacked up I could make a whole rack, so better to design a CEM module as well to control them:
 
 ![Images of the Lego CEM module model and ETC original](/resources/sensor3-cem-images.jpg)
 
 I made the modules with a groove in each side one tile thick, so they could slot into a supporting structure in the cabinet.
 
-![Images of the Lego Sensor3 racks model and ETC originals](/resources/sensor3-racks-images.jpg)
+![Images of the Lego module stack, mounting rails and cabinet](/resources/sensor3-modulemounts-images.jpg)
+
+Although a 36 or 48 channel cabinet might be more common in dimmer rooms, a shorter 24 channel / 12 module rack uses much fewer pieces, and it was more straightforward to have one large tile for the majority of the door. That door was tricky to make close flush, with more sticky-out hinges than the real thing, and I couldn't make a lock mechanism without cluttering up the design too much.
+
+![Images of the Lego Sensor3 racks model and ETC originals](/resources/sensor3-rack24-images.jpg)
 
 https://www.etcconnect.com/Products/Power-Controls/Racks-and-Panels/Sensor3/Installation.aspx
 
