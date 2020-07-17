@@ -30,6 +30,8 @@ If you want to make one yourself, you can access the parts list on BrickLink, do
 
 * [ETC ION - box (self-assembly required) [3.2MB PDF]](/resources/LegoION-DIYbox.pdf)
 
+* [ION classic at ETCconnect.com ->](https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx)
+
 ---
 
 ## Sensor3 modules and Rack24
@@ -50,7 +52,11 @@ Although a 36 or 48 channel cabinet might be more common in dimmer rooms, a shor
 
 ![Images of the Lego Sensor3 racks model and ETC originals](/resources/sensor3-rack24-images.jpg)
 
-* [Sensor3 racks and modules at ETCconnect.com](https://www.etcconnect.com/Products/Power-Controls/Racks-and-Panels/Sensor3/Installation.aspx)
+![Image of a row of Lego Sensor3 rack24 cabinets, one with door opened](/resources/sensor3-rackrow.jpg)
+
+* <a href="https://www.bricklink.com/v3/studio/edit.page?idModel=147578" title="ETC Sensor3 rack24 Lego model on BrickLink">ETC Sensor3 rack24 model on BrickLink -></a>
+
+* [Sensor3 racks and modules at ETCconnect.com ->](https://www.etcconnect.com/Products/Power-Controls/Racks-and-Panels/Sensor3/Installation.aspx)
 
 ---
 
