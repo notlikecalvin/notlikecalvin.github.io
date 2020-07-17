@@ -60,6 +60,7 @@ Although a 36 or 48 channel cabinet might be more common in dimmer rooms, a shor
 
 **LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site**
 
-**ETC® and related marks are trademarks of Electronic Theatre Controls, Inc. Trademark and patent info: <a href="http://etcconnect.com/IP">etconnect.com/IP</a>**
+**ETC® and related marks are trademarks of Electronic Theatre Controls, Inc.
+Trademark and patent info: <a href="http://etcconnect.com/IP">etconnect.com/IP</a>**
 
 *Please don't sue me*
