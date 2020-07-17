@@ -50,7 +50,7 @@ Although a 36 or 48 channel cabinet might be more common in dimmer rooms, a shor
 
 ![Images of the Lego Sensor3 racks model and ETC originals](/resources/sensor3-rack24-images.jpg)
 
-*[Sensor3 racks and modules at ETCconnect.com](https://www.etcconnect.com/Products/Power-Controls/Racks-and-Panels/Sensor3/Installation.aspx)
+* [Sensor3 racks and modules at ETCconnect.com](https://www.etcconnect.com/Products/Power-Controls/Racks-and-Panels/Sensor3/Installation.aspx)
 
 ---
 
