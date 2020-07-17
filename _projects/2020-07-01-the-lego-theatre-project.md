@@ -46,11 +46,9 @@ With a bunch of those stacked up I could make a whole rack, so better to design 
 
 I made the modules with a groove in each side one tile thick, so they could slot into a supporting structure in the cabinet.
 
-![Images of the module stack, mounting rails and cabinet](/resources/sensor3-modulemounts-images.jpg)
+![Images of the module stack, mounting rails and cabinet](/resources/sensor3-making-images.jpg)
 
 Although a 36 or 48 channel cabinet might be more common in dimmer rooms, a shorter 24 channel / 12 module rack uses much fewer pieces, and it was more straightforward to have one large tile for the majority of the door. That door was tricky to make close flush, with more sticky-out hinges than the real thing, and I couldn't make a lock mechanism without cluttering up the design too much.
-
-![Images of the Sensor3 rack model and ETC originals](/resources/sensor3-rack24-images.jpg)
 
 ![Image of a row of Sensor3 rack24 cabinet models, one with door opened](/resources/sensor3-rackrow.jpg)
 
