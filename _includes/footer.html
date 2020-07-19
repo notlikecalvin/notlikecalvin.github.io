@@ -1,5 +1,5 @@
 <footer class="footer" role="contentinfo">
     <small>
-        © {{ date | date: "%Y" }} neil hobbs / uses the <a href="https://ultra-jekyll.netlify.com/">Ultra</a> theme / <a href="/atom.xml">rss feed</a>.
+        © <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }} neil hobbs / uses the <a href="https://ultra-jekyll.netlify.com/">Ultra</a> theme / <a href="/atom.xml">rss feed</a>.
     </small>
 </footer>
