@@ -1,24 +1,24 @@
 ---
 layout: project
-title: Lego Theatre
-description: Lego models of theatre technology
+title: NOGO Theatre
+description: LEGO® models of theatre technology
 summary: Summary of project
 category: lego theatre
 ---
 
-A lockdown project that got a bit out of hand. So far I've designed LEGO models of <a href="https://www.etcconnect.com/" title="Electronic Theatre Controls">ETC</a>'s **Ion classic** and **Gio** consoles, and **Sensor 3** dimmer modules and rack.
+A lockdown project that got a bit out of hand. So far I've designed LEGO® models of <a href="https://www.etcconnect.com/" title="Electronic Theatre Controls">ETC</a>'s **Ion classic** and **Gio** consoles, and **Sensor 3** dimmer modules and rack.
 
 I've shamelessly based the *NOGO Theatre* theming on the *<a href="https://www.lego.com/en-gb/themes/architecture/story" title="LEGO Architecture at Lego.com">LEGO Architecture</a>* range.
 
 ---
 
-## ION
+# Ion classic
 
 ETC's original <a href="https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx" title="ION classic console at ETCconnect.com">ION console</a>, with its small footprint and large featureset, powers a range of performance around the world. As the console I'm most physically familiar with it was an obvious place to start.
 
 ![Images of the Lego ION model and packaging](/resources/ion-images.jpg)
 
-This model is approximately quarter-scale, sized mainly around the layout of the button banks: 240 pieces, 11cm wide by 15cm deep. The main challenge with these consoles is the angled faceplate and how that attaches to the base section - this one uses a hinge connection at the front.
+This model is approximately quarter-scale, sized mainly around the layout of the button banks: 240 pieces, 11cm wide by 15cm deep. The main challenge with these consoles is the angled faceplate and getting that attached to the base section - this one uses a hinge connection at the front.
 
 If you want to make one yourself, you can access the parts list on BrickLink, download the instructions, and assemble your own erzatz retail packaging. I've done a fancy brochure with light text on dark pages, but there's also a more ink-friendly inverted version of the instructions.
 
@@ -34,7 +34,7 @@ If you want to make one yourself, you can access the parts list on BrickLink, do
 
 ---
 
-## Sensor3 modules and Rack24
+# Sensor3 modules and Rack24
 
 As a bit of a break from the ION, I started modelling a ThruPower module at the same scale, trying to get as much detail as possible into a relatively compact space only three tiles high:
 
@@ -58,7 +58,7 @@ Although a 36 or 48 channel cabinet might be more common in dimmer rooms, a shor
 
 ---
 
-## GIO
+# Gio
 
 ---
 
